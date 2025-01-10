@@ -60,7 +60,7 @@
    ```sh
    cd ./ui
    ```
-- Install dependencies using Bun:
+- Install dependencies using npm:
    ```sh
    npm i
    ```
